@@ -1,0 +1,33 @@
+.chtext{
+    font-family:'Montserrat' ;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color:#363636 ;
+    padding-top: 25px;
+}
+.ctext{
+    font-family:'Montserrat' ;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#363636 ;
+    padding-top: 20px;
+    
+}
+.atext{
+    font-family:'Montserrat' ;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+
+}
+.card-cont{
+    border: 1px solid #EAEAEA;
+    border-radius: 5px;
+    width: 400px;
+
+}
+.under-box{
+    padding: 24px;
+}

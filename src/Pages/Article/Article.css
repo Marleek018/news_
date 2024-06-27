@@ -1,0 +1,33 @@
+.article-head {
+  font-family: "Montserrat";
+  font-size: 24px;
+  font-weight: 400;
+  color: #363636;
+}
+.article-text {
+  font-family: "Montserrat";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000000;
+}
+.article-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Montserrat";
+  color: #363636;
+  position: relative;
+  padding-left: 20px;
+  background-color: white;
+  border: none;
+}
+.back-arrow {
+  position: absolute;
+  left: 0px;
+  top: 15%;
+}
+.text-container{
+    border:1px solid #EAEAEA ;
+
+}
